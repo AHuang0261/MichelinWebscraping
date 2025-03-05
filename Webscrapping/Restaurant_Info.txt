@@ -1,0 +1,465 @@
+Benoit; €€€; Classic Cuisine; 48.8583611, 2.3499787; 20 rue Saint-Martin, Paris, 75004, France; https://www.benoit-paris.com/
+La Table Cachée par Michel Roth; €€€; Modern Cuisine; N/A, N/A; BHV, 33 rue de la Verrerie, Paris, 75004, France; https://www.bhv.fr/magasins/vivez-bhv/un-petit-creux/la-table-cachee-par-michel-roth
+GrandCœur; €€€; Modern Cuisine; 48.8595616, 2.3539922; 41 rue du Temple, Paris, 75004, France; http://www.grandcoeur.paris
+Aldehyde; €€€€; Creative; 48.8549386, 2.3553865; 5 rue du Pont-Louis-Philippe, Paris, 75004, France; https://aldehyde.paris/
+Bombance; €€; Modern Cuisine; 48.8598038, 2.3550656; 40 rue des Blancs-Manteaux, Paris, 75004, France; https://www.bombanceparis.fr/
+Tavline; €€; Israeli; 48.8564311, 2.3575272; 25 rue du Roi-de-Sicile, Paris, 75004, France; https://www.tavline.fr/
+Baffo; €€€; Italian; 48.8601419, 2.3562158; 12 rue Pecquay, Paris, 75004, France; https://www.baffo.fr/
+Hestia; €€€; Modern Cuisine; 48.8528639, 2.3462855; 8 rue de la Huchette, Paris, 75005, France; http://www.hestia-restaurant.com
+Sola; €€€€; Japanese, Creative; 48.8515758, 2.3483959; 12 rue de l'Hôtel-Colbert, Paris, 75005, France; https://www.restaurant-sola.com/
+Odette; €€€; Modern Cuisine; 48.86120733985918, 2.34496768600237; 25 rue du Pont-Neuf, Paris, 75001, France; https://www.maison-albar-hotels-le-pont-neuf.com/fr/page/restaurant-odette-paris.2488.html
+Atelier Maître Albert; €€; Traditional Cuisine; 48.8510138, 2.3500894; 1 rue Maître-Albert, Paris, 75005, France; https://www.ateliermaitrealbert.com/
+Hakuba; €€€€; Japanese; 48.8588572, 2.3421794; Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France; https://www.chevalblanc.com/fr/maison/paris/restaurants-et-bars/hakuba/
+Le Sergent Recruteur; €€€€; Modern Cuisine; 48.8519671, 2.3560662; 41 rue Saint-Louis-en-l'Île, Paris, 75004, France; https://www.lesergentrecruteur.fr/
+L'Initial; €€€; Modern Cuisine; 48.8506901, 2.3504188; 9 rue de Bièvre, Paris, 75005, France; https://restaurant-linitial.fr/
+Le Tout-Paris; €€€€; Modern Cuisine; 48.8588572, 2.3421794; Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France; https://www.letoutparis.fr
+Plénitude - Cheval Blanc Paris; €€€€; Creative; 48.8588428, 2.3418987; 8 quai du Louvre, Paris, 75001, France; https://www.chevalblanc.com/fr/maison/paris/
+Langosteria; €€€€; Italian, Seafood; 48.8588572, 2.3421794; Cheval Blanc Paris, 8 quai du Louvre, Paris, 75001, France; https://www.langosteria.com/it/langosteria-paris
+Ze Kitchen Galerie; €€€€; Creative; 48.855257800000004, 2.3403197177837303; 4 rue des Grands-Augustins, Paris, 75006, France; https://zekitchengalerie.fr/
+Shu; €€; Japanese; 48.8530264, 2.3422025; 8 rue Suger, Paris, 75006, France; https://www.restaurant-shu.com/
+Baieta; €€€; Modern Cuisine; 48.8501356, 2.3522654; 5 rue de Pontoise, Paris, 75005, France; https://www.restaurant-baieta-paris.fr/
+Le Mazenay; €€; Farm to table; 48.8636039, 2.3533103; 46 rue de Montmorency, Paris, 75003, France; https://www.lemazenay.com/
+Auberge Nicolas Flamel; €€€; Modern Cuisine; 48.8635758, 2.3531607; 51 rue de Montmorency, Paris, 75003, France; https://auberge.nicolas-flamel.fr/
+La Poule au Pot; €€€; Traditional Cuisine; 48.8616782, 2.3432559; 9 rue Vauvilliers, Paris, 75001, France; https://jeanfrançoispiege.com/la-poule-au-pot
+Relais Louis XIII; €€€€; Classic Cuisine; 48.8545134, 2.3407588; 8 rue des Grands-Augustins, Paris, 75006, France; https://relaislouis13.fr/
+Alliance; €€€€; Modern Cuisine; 48.8499232, 2.3533019; 5 rue de Poissy, Paris, 75005, France; https://www.restaurant-alliance.fr/
+Liquide; €€€; Creative; 48.8609881, 2.3424125; 39 rue de l'Arbre-Sec, Paris, 75001, France; https://www.liquide.paris
+Granite; €€€€; Modern Cuisine; 48.8609753, 2.3419779; 6 rue Bailleul, Paris, 75001, France; http://www.granite.paris
+Maison Cluny; €€; Traditional Cuisine; 48.8505807, 2.3448259; 3 rue de Cluny, Paris, 75005, France; https://www.maison-cluny.fr
+Clover Grill; €€€; Grills; 48.8609753, 2.3419779; 6 rue Bailleul, Paris, 75001, France; https://jeanfrançoispiege.com/clover-grill
+Kitchen Ter(re); €€; Modern Cuisine; 48.8496404, 2.3527459; 26 boulevard Saint-Germain, Paris, 75005, France; https://zekitchengalerie.fr/
+Allard; €€€; Traditional Cuisine; 48.8533413, 2.3410806; 41 rue Saint-André-des-Arts, Paris, 75006, France; https://www.restaurant-allard.fr/
+Parcelles; €€€; Traditional Cuisine; 48.8632239, 2.3566007; 13 rue Chapon, Paris, 75003, France; https://www.parcelles-paris.fr/
+Thaï Spices; €€; Thai; 48.852985098750416, 2.360025157631023; 5-7 rue de l'Ave-Maria, Paris, 75004, France; https://www.thaispices.fr
+Tour d'Argent; €€€€; Modern Cuisine; 48.8498148, 2.3550979; 15 quai de la Tournelle, Paris, 75005, France; https://tourdargent.com/
+Le Christine; €€€; Modern Cuisine; 48.8543035, 2.3404003; 1 rue Christine, Paris, 75006, France; https://lechristine.becsparisiens.fr/
+Yam'Tcha; €€€€; Creative; 48.8614967, 2.3419145; 121 rue Saint-Honoré, Paris, 75001, France; https://www.yamtcha.com/
+Oktobre; €€€; Modern Cuisine; 48.853803, 2.3403816; 25 rue des Grands-Augustins, Paris, 75006, France; https://oktobre.fr/
+AT; €€€€; Creative; 48.84832812445987, 2.3534373673145477; 4bis rue du Cardinal-Lemoine, Paris, 75005, France; https://www.atsushitanaka.com/
+ERH; €€€€; Modern Cuisine; 48.8644933, 2.3491551; 11 rue Tiquetonne, Paris, 75002, France; http://www.restaurant-erh.com
+La Régalade Saint-Honoré; €€; Traditional Cuisine; 48.8615929, 2.3419447; 106 rue Saint-Honoré, Paris, 75001, France; https://laregalade.paris/
+Guy Savoy; €€€€; Modern Cuisine; 48.856401500000004, 2.338495632992325; 11 quai de Conti, Paris, 75006, France; https://www.guysavoy.com/
+La Dame de Pic; €€€€; Creative; 48.8615053, 2.3412648; 20 rue du Louvre, Paris, 75001, France; https://anne-sophie-pic.com/paris/
+Colvert; €€€; Modern Cuisine; 48.8535225, 2.3401722; 30 rue des Grands-Augustins, Paris, 75006, France; https://colvert.paris
+LAVA - Cuisine & Vin; €€€; Modern Cuisine; 48.8491284, 2.3487903; 9 rue de la Montagne-Sainte-Geneviève, Paris, 75005, France; http://www.lava-paris.com
+Terra; €€€; Modern Cuisine; 48.8637407, 2.356942; 21 rue des Gravilliers, Paris, 75003, France; https://www.terraparis.fr/
+Lai'Tcha; €; Asian; 48.863554, 2.3442561; 7 rue du Jour, Paris, 75001, France; https://www.yamtcha.com/
+Datil; €€€€; Modern Cuisine; 48.8636109, 2.3573253; 13 rue des Gravilliers, Paris, 75003, France; http://www.datil-restaurant.fr
+Dessance; €€€; Modern Cuisine; 48.8622711, 2.3595454; 74 rue des Archives, Paris, 75003, France; https://www.dessance.com/
+L'Apibo; €€; Modern Cuisine; 48.8647204, 2.3474424; 31 rue Tiquetonne, Paris, 75002, France; http://www.restaurant-lapibo.fr
+Halle aux Grains; €€€; Modern Cuisine; N/A, N/A; Bourse de Commerce, 2 rue de Viarmes, Paris, 75001, France; https://www.halleauxgrains.bras.fr
+Cucina Mutualité; €€; Italian; 48.8485823, 2.3507881; 20 rue Saint-Victor, Paris, 75005, France; https://www.cucina-mutualite.com/
+Kodawari Ramen - Yokochō; €€; Japanese; 48.8546421, 2.3380705; 29 rue Mazarine, Paris, 75006, France; https://www.kodawari-ramen.com/
+Boutary; €€€€; Creative; 48.8548708, 2.3379816; 25 rue Mazarine, Paris, 75006, France; https://www.boutary-restaurant.com/
+À l’Épi d’Or; €€; Traditional Cuisine; 48.8628428, 2.3410804; 25 rue Jean-Jacques-Rousseau, Paris, 75001, France; https://jeanfrançoispiege.com/a-lepi-dor
+Sétopa; €€; rean, Modern Cuisine; 48.8517002, 2.3394669; 6 rue Dupuytren, Paris, 75006, France; NONE
+L'Ambroisie; €€€€; Classic Cuisine; 48.8552833, 2.3643585; 9 place des Vosges, Paris, 75004, France; https://www.ambroisie-paris.com/
+Tekés; €€; aeli, Middle Eastern; 48.8658949, 2.3496513; 4 bis rue Saint-Sauveur, Paris, 75002, France; https://www.tekesrestaurant.com
+Les Enfants Rouges; €€€; Farm to table; 48.8629413, 2.3612184; 9 rue de Beauce, Paris, 75003, France; https://les-enfants-rouges-paris.fr/fr
+Shabour; €€€€; Creative; 48.8659291, 2.3490752; 19 rue Saint-Sauveur, Paris, 75002, France; http://www.restaurantshabour.com
+Ogata; €€€€; Japanese; 48.8610348, 2.3634955; 16 rue Debelleyme, Paris, 75003, France; http://www.ogata.com/paris/restaurant
+Halo Paris; €€€; Modern Cuisine; 48.8660178, 2.3488601; 12 rue Saint-Sauveur, Paris, 75002, France; http://www.halo-paris.com
+Kitchen by Madame Rêve; €€; Modern Cuisine; 48.8645507, 2.3429568; 48 rue du Louvre, Paris, 75001, France; https://madamereve.com/restaurants/kitchen/
+Le Comptoir du Relais; €€; Traditional Cuisine; 48.85193195, 2.33856955; 5 carrefour de l'Odéon, Paris, 75006, France; https://www.hotel-paris-relais-saint-germain.com/restaurant-le-comptoir
+Kei; €€€€; rn Cuisine, Creative; N/A, N/A; 5 rue du Coq-Héron, Paris, 75001, France; https://www.restaurant-kei.fr/
+Soé; €€; Creative; 48.8532218, 2.3640295; 18 rue Beautreillis, Paris, 75004, France; https://www.soe-restaurant.fr/
+Yoshinori; €€€€; Modern Cuisine; 48.8529964, 2.3377928; 18 rue Grégoire-de-Tours, Paris, 75006, France; https://www.yoshinori-paris.com/
+Semilla; €€€; Modern Cuisine; 48.854192, 2.3368747; 54 rue de Seine, Paris, 75006, France; https://www.semillaparis.com/
+Ciasa Mia; €€€; Italian Contemporary; 48.8474156, 2.3470448; 19 rue Laplace, Paris, 75005, France; https://www.ciasamia.com/
+La Table de Colette; €€€; Modern Cuisine; 48.847328, 2.3471786; 17 rue Laplace, Paris, 75005, France; https://www.latabledecolette.fr/
+Anne; €€€€; Modern Cuisine; 48.8562363, 2.3660257; 28 place des Vosges, Paris, 75003, France; https://www.pavillon-de-la-reine.com/restaurant-bar
+Campelli; €€; Creative; 48.864285, 2.3403064; 36 rue Croix-des-Petits-Champs, Paris, 75001, France; https://campelli.paris/
+Omar Dhiab; €€€€; Modern Cuisine; 48.8651457, 2.3419429; 23 rue Hérold, Paris, 75001, France; http://www.omardhiab.com
+Sagan; €€; Japanese; 48.8503881, 2.3391603; 8 rue Casimir-Delavigne, Paris, 75006, France; https://www.saganparis.fr/
+Capitaine; €€€; Farm to table; 48.8540797, 2.3659063; 4 impasse Guéménée, Paris, 75004, France; https://www.restaurantcapitaine.fr/
+Bistrot Instinct; €€; Modern Cuisine; 48.8636998, 2.3626132; 19 rue de Picardie, Paris, 75003, France; https://instinct-paris.com/
+Café Compagnon; €€; Modern Cuisine; 48.866596638549346, 2.34572128120748; 22-26 rue Léopold-Bellan, Paris, 75002, France; https://cafecompagnon.com
+La Méditerranée; €€; Seafood; 48.8500778, 2.3385143; 2 place de l'Odéon, Paris, 75006, France; https://www.la-mediterranee.com/
+Ilô; €€€; Modern Cuisine; 48.8527565, 2.3662448; 6 rue Castex, Paris, 75004, France; https://ilo-restaurant.eatbu.com
+L'Altro Frenchie; €€€; lian, Modern Cuisine; 48.8676586, 2.3476093; 9 rue du Nil, Paris, 75002, France; http://www.altro-frenchie.com
+Frenchie; €€€€; Modern Cuisine; 48.8677443, 2.347922; 5 rue du Nil, Paris, 75002, France; http://www.frenchie-restaurant.com
+Brasserie du Louvre - Bocuse; €€€; l Cuisine, Lyonnaise; 48.86361806452428, 2.3353281812755182; Place André-Malraux, Paris, 75001, France; https://www.maisons-bocuse.com/nos-brasseries/brasserie-louvre-paris-1-terrasse/
+Guefen; €€€€; Modern Cuisine; 48.8668208, 2.3587112; 9 rue du Vertbois, Paris, 75003, France; http://www.guefen.fr
+Restaurant H; €€€; Creative; 48.8544888, 2.3679571; 13 rue Jean-Beausire, Paris, 75004, France; https://www.restauranth.com/
+Istr; €€; Modern Cuisine; 48.8675028, 2.3576032; 41 rue Notre-Dame-de-Nazareth, Paris, 75003, France; https://www.istr.paris/
+Korus; €€€; Modern Cuisine; 48.8592436, 2.3681854; 73 rue Amelot, Paris, 75011, France; https://restaurantkorus.com/
+La Table de Mee; €€; Korean; 48.8529709, 2.333976; 6 rue des Ciseaux, Paris, 75006, France; NONE
+Qui Plume la Lune; €€€€; Modern Cuisine; 48.8590678, 2.3683962; 50 rue Amelot, Paris, 75011, France; http://www.quiplumelalune.fr
+Mắm From Hanoï; €; Vietnamese; 48.8686763, 2.3483565; 39 rue de Cléry, Paris, 75002, France; https://mamfromhanoi.com
+Elmer; €€€; Modern Cuisine; 48.8673431, 2.3594074; 30 rue Notre-Dame-de-Nazareth, Paris, 75003, France; https://www.elmer-restaurant.fr/
+Palais Royal Restaurant; €€€€; tive, Modern Cuisine; 48.8657551, 2.3389372; 110 Galerie de Valois, Paris, 75001, France; https://palaisroyalrestaurantparis.com/
+Fleur de Pavé; €€€; tive, Modern Cuisine; 48.8677178, 2.3433324; 5 rue Paul-Lelong, Paris, 75002, France; https://www.fleurdepave.com/
+Otto; €€; Modern Cuisine; 48.844859, 2.349257; 5 rue Mouffetard, Paris, 75005, France; http://www.otto-paris.com
+Yen; €€€; Japanese; 48.854472, 2.3327768; 22 rue Saint-Benoît, Paris, 75006, France; https://www.yen-paris.fr/
+L’Oyat; €€; Modern Cuisine; 48.8670477, 2.3605441; 11 rue Notre-Dame-de-Nazareth, Paris, 75003, France; https://restaurantloyat.fr/
+Emporio Armani Caffè; €€€; Italian; 48.8537199, 2.3326717; 149 boulevard Saint-Germain, Paris, 75006, France; http://www.armani.com/fr-fr/experience/armani-restaurant
+Tracé; €€€€; Creative; 48.8642413, 2.3360363; 15 rue de Richelieu, Paris, 75001, France; NONE
+Armani Ristorante; €€€€; Italian; 48.8536548, 2.3328389; 7 place du Québec, Paris, 75006, France; https://www.armani.com/fr-fr/experience/armani-restaurant
+Le Bon Saint-Pourçain; €€€; Modern Cuisine; 48.84990086470998, 2.3347473249566684; 10 bis rue Servandoni, Paris, 75006, France; https://www.bonsaintpourcain.com
+Liza; €€; Lebanese; 48.8675614, 2.340834; 14 rue de la Banque, Paris, 75002, France; https://www.restaurant-liza.com/
+Biondi; €€€; Argentinian; 48.8638211, 2.3670738; 118 rue Amelot, Paris, 75011, France; https://www.biondi-restaurant.fr/
+Nhome; €€€€; Creative; 48.8660483, 2.3373691; 41 rue de Montpensier, Paris, 75001, France; https://www.nhomeparis.com/
+Ambos; €€€; Modern Cuisine; 48.8492457, 2.3351893; 38 rue de Vaugirard, Paris, 75006, France; https://www.ambos-restaurant.fr/
+Zen; €€; Japanese; 48.8641002, 2.3346064; 8 rue de l'Échelle, Paris, 75001, France; https://www.zenrestaurantparis.fr
+Loulou; €€€; Italian; 48.863223, 2.3333217; 107 rue Rivoli, Paris, 75001, France; https://www.loulou-paris.com/
+La Bourse et la Vie; €€; Traditional Cuisine; 48.8676307, 2.3394491; 12 rue Vivienne, Paris, 75002, France; https://www.labourselavie.com/
+Charbon Kunitoraya; €€€€; Yakitori, Japanese; 48.8661795, 2.3363355; 5 rue Villedo, Paris, 75001, France; https://kunitoraya.com/
+Taokan; €€; Chinese; 48.8526679, 2.3314776; 8 rue du Sabot, Paris, 75006, France; https://www.taokan.fr/
+Les Parisiens; €€€; Traditional Cuisine; 48.8566633, 2.3303564; 1 rue du Pré-aux-Clercs, Paris, 75007, France; https://pavillon-faubourg-saint-germain.com/restaurant-les-parisiens
+Pantagruel; €€€€; Modern Cuisine; 48.8696824, 2.346187; 24 rue du Sentier, Paris, 75002, France; http://www.restaurant-pantagruel.com
+Baillotte; €€€; Modern Cuisine; 48.8534766, 2.3309867; 16 rue du Dragon, Paris, 75006, France; https://www.restaurantbaillotte.fr/
+Clover Saint-Germain; €€€; Modern Cuisine; 48.8552376, 2.3303615; 5 rue Perronet, Paris, 75007, France; https://jeanfrançoispiege.com/cloversaintgermain
+Magma; €€€; Modern Cuisine; 48.8650949, 2.3671344; 9 rue Jean-Pierre-Timbaud, Paris, 75011, France; http://www.restaurantmagma.com
+Nodaïwa; €€; Japanese; 48.8643669, 2.3332403; 272 rue Saint-Honoré, Paris, 75001, France; https://www.nodaiwa.com/
+Jòia par Hélène Darroze; €€€; om South West France; 48.8697445, 2.343507; 39 rue des Jeûneurs, Paris, 75002, France; https://www.joiahelenedarroze.com/
+Sushi B; €€€€; Japanese; 48.8677331, 2.3374425; 5 rue Rameau, Paris, 75002, France; http://www.sushi-b-fr.com
+Aux Prés; €€€; Modern Cuisine; 48.8527577, 2.3304479; 27 rue du Dragon, Paris, 75006, France; https://restaurantauxpres.com/
+Qasti Green; €€; Lebanese, Vegetarian; 48.8697823, 2.343329; 41 rue des Jeûneurs, Paris, 75002, France; http://www.qasti.fr
+Nolinski; €€€; Traditional Cuisine; 48.8654554, 2.3347522; 16 avenue de l'Opéra, Paris, 75001, France; https://nolinskiparis.com/
+Mori Venice Bar; €€€€; Italian; 48.8690966, 2.3401069; 27 rue Vivienne, Paris, 75002, France; https://www.mori-venicebar.com/
+Eclipses; €€€€; Modern Cuisine; 48.858307424476834, 2.329549153860883; 27-29 rue de Beaune, Paris, 75007, France; https://eclipses.fr/
+Le Saint-Sébastien; €€€; Modern Cuisine; 48.861567, 2.3710293; 42 rue Saint-Sébastien, Paris, 75011, France; https://www.lesaintsebastien.paris/
+Habile.; €€; Modern Cuisine; 48.8696591, 2.3606541; 16 rue de Lancry, Paris, 75010, France; https://habile.com/
+Amarante; €€€; Traditional Cuisine; 48.8496164, 2.3700111; 4 rue Biscornet, Paris, 75012, France; https://www.amarante.paris/
+Restaurant des Grands Boulevards; €€; lian, Modern Cuisine; 48.8710173, 2.3449353; 17 boulevard Poissonnière, Paris, 75002, France; https://www.grandsboulevardshotel.com/
+Les Résistants; €€; Modern Cuisine; 48.8723020587229, 2.3558279395175417; 16 rue du Château-d'Eau, Paris, 75010, France; https://www.lesresistants.fr/
+Accents Table Bourse; €€€€; Modern Cuisine; 48.8699222, 2.3402797; 24 rue Feydeau, Paris, 75002, France; https://accents-restaurant.com
+Flocon; €€; Farm to table; 48.8421318, 2.349813; 75 rue Mouffetard, Paris, 75005, France; https://www.restaurantflocon.com/
+Bon Kushikatsu; €€€; Japanese; 48.8654609, 2.3690645; 24 rue Jean-Pierre-Timbaud, Paris, 75011, France; https://www.kushikatsubon.fr/
+Akabeko; €€€€; Fusion; 48.8576151, 2.328373; 40 rue de l'Université, Paris, 75007, France; http://www.akabekorestaurant.com
+Pouliche; €€; Modern Cuisine; 48.8717306, 2.3523293; 11 rue d'Enghien, Paris, 75010, France; https://www.poulicheparis.com/
+19 Saint Roch; €€€; Creative; 48.865433, 2.332226; 19 rue Saint-Roch, Paris, 75001, France; https://www.19saint-roch.com
+L'Atelier de Joël Robuchon - St-Germain; €€€€; Modern Cuisine; 48.8567026, 2.3277198; 5 rue de Montalembert, Paris, 75007, France; http://www.atelier-robuchon-saint-germain.com
+Caffè Stern; €€€€; Italian; 48.8708712, 2.341577; 47 passage des Panoramas, Paris, 75002, France; https://alajmo.it/fr/pages/homepage-caffe-stern
+52 Faubourg St-Denis; €€; Modern Cuisine; 48.8720905, 2.3540414; 52 rue du Faubourg-Saint-Denis, Paris, 75010, France; https://www.faubourgstdenis.com/
+Racines; €€; Italian; 48.8712485, 2.3417667; 8 passage des Panoramas, Paris, 75002, France; https://racinesparis.com
+Géosmine; €€€€; tive, Modern Cuisine; 48.8655245, 2.3705597; 71 rue de la Folie-Méricourt, Paris, 75011, France; http://www.geosmine.com
+FIEF; €€€€; rn Cuisine, Creative; 48.8636377, 2.3724431; 44 rue de la Folie-Méricourt, Paris, 75011, France; https://www.fiefrestaurant.fr/
+Racines des Prés; €€€; Modern Cuisine; 48.8561441, 2.3269901; 1 rue de Gribeauval, Paris, 75007, France; https://www.racinesdespres.com/
+Le Quincy; €€€; Traditional Cuisine; 48.8470233, 2.370108; 28 avenue Ledru-Rollin, Paris, 75012, France; NONE
+Passionné; €€€; Modern Cuisine; 48.872286, 2.345589; 17 rue Bergère, Paris, 75009, France; http://www.restaurantpassionne.com
+Piero TT; €€€€; Italian; 48.8566218, 2.3266823; 44 rue du Bac, Paris, 75007, France; http://www.restaurantpiero.com
+Aux Lyonnais; €€; Lyonnaise; 48.870714, 2.3386957; 32 rue Saint-Marc, Paris, 75002, France; https://www.auxlyonnais.com/
+À La Biche au Bois; €€; Traditional Cuisine; 48.847968, 2.3710745; 45 avenue Ledru-Rollin, Paris, 75012, France; https://alabicheaubois.fr/
+Drouant; €€€; ine, Classic Cuisine; 48.869001850000004, 2.3343040689353867; 16-18 place Gaillon, Paris, 75002, France; https://drouant.com/
+Auberge Pyrénées Cévennes; €€; Traditional Cuisine; 48.8678867, 2.3689829; 106 rue de la Folie-Méricourt, Paris, 75011, France; https://www.auberge-pyrenees-cevennes.fr/
+Pierre Sang on Gambey; €€; tive, Modern Cuisine; 48.8649782, 2.3721302; 6 rue Gambey, Paris, 75011, France; https://pierresang.com/
+Pierre Sang in Oberkampf; €€; tive, Modern Cuisine; 48.8647, 2.3723457; 55 rue Oberkampf, Paris, 75011, France; https://pierresang.com/in-oberkampf/
+Kapara; €€€; editerranean Cuisine; 48.865436, 2.3298035; 9 rue d'Alger, Paris, 75001, France; https://kaparaparis.com
+Mavrommatis; €€€€; editerranean Cuisine; 48.8405466, 2.3512744; 42 rue Daubenton, Paris, 75005, France; https://www.mavrommatis.com/
+Le Villaret; €€€; Traditional Cuisine; 48.8643547, 2.3728587; 13 rue Ternaux, Paris, 75011, France; https://www.levillaret-restaurant.fr/
+Eels; €€€; Modern Cuisine; 48.8732299, 2.3502848; 27 rue d'Hauteville, Paris, 75010, France; https://www.restaurant-eels.com/
+Bistro S; €€€; Modern Cuisine; 48.850833, 2.3742541; 7 rue Saint-Nicolas, Paris, 75012, France; https://www.bistros.fr/
+Marsan par Hélène Darroze; €€€€; Modern Cuisine; 48.8500436, 2.3278425; 4 rue d'Assas, Paris, 75006, France; https://www.marsanhelenedarroze.com/
+Les Délices d'Aphrodite; €€; Greek; 48.8401766, 2.3510816; 4 rue de Candolle, Paris, 75005, France; https://www.mavrommatis.com/les-delices-daphrodite/
+Brasserie Lutetia; €€€; Seafood; 48.850915, 2.3272149; 45 boulevard Raspail, Paris, 75006, France; https://www.hotellutetia.com/fr/gastronomie-paris/brasserie/
+Dersou; €€€; Creative; 48.8514084, 2.3746412; 21 rue Saint-Nicolas, Paris, 75012, France; https://www.dersouparis.com/
+Sushi Yoshinaga; €€€€; Japanese; 48.8697547, 2.3351301; 27 rue du 4-Septembre, Paris, 75002, France; http://www.sushiyoshinaga.com
+Brigade du Tigre; €€; Asian; 48.873527, 2.3479885; 38 rue du Faubourg-Poissonnière, Paris, 75010, France; https://www.brigadedutigre.fr/
+Solstice; €€€€; Modern Cuisine; 48.8402071, 2.3458479; 45 rue Claude-Bernard, Paris, 75005, France; http://www.solsticeparis.com
+Vantre; €€€; Modern Cuisine; 48.8685045, 2.3701736; 19 rue de la Fontaine-au-Roi, Paris, 75011, France; https://www.vantre.fr/
+TO; €€€; Modern Cuisine; 48.8714949, 2.3644501; 34 rue Beaurepaire, Paris, 75010, France; https://to-restaurant.com/
+Restaurant Le Dalí; €€€€; Modern Cuisine; 48.8652754, 2.3282212; Le Meurice, 228 rue de Rivoli, Paris, 75001, France; https://www.dorchestercollection.com/fr/paris/le-meurice
+Restaurant Le Meurice Alain Ducasse; €€€€; Creative; 48.8652754, 2.3282212; Le Meurice, 228 rue de Rivoli, Paris, 75001, France; https://www.alainducasse-meurice.com
+Richer; €€; Modern Cuisine; 48.8740728, 2.3476885; 2 rue Richer, Paris, 75009, France; https://www.lericher.com/
+Les Botanistes; €€; Traditional Cuisine; 48.852086820858766, 2.325506937895506; 11 bis rue Chomel, Paris, 75007, France; https://www.lesbotanistes.com/
+Passerini; €€; Italian; 48.8494462, 2.3748652; 65 rue Traversière, Paris, 75012, France; https://www.passerini.paris/
+Quelque Part; €€€; Creative; 48.8742063, 2.3472367; 1 rue Ambroise-Thomas, Paris, 75009, France; https://lesabysses.quelquepart.net/
+Gaya par Pierre Gagnaire; €€€; ern Cuisine, Seafood; 48.8565429, 2.3241172; 6 rue de Saint-Simon, Paris, 75007, France; http://www.restaurantgaya.com
+Calice; €€€; Modern Cuisine; 48.8389989, 2.3504935; 5 rue de Bazeilles, Paris, 75005, France; http://www.calicerestaurant.fr
+Amâlia; €€€€; Modern Cuisine; 48.8681454, 2.3717299; 32 rue de la Fontaine-au-Roi, Paris, 75011, France; http://www.amaliarestaurant.com
+Les Résistants - La Table; €€; Modern Cuisine; 48.8744011, 2.3559971; 7 rue de la Fidélité, Paris, 75010, France; http://www.lesresistants-latable.fr
+Pur' - Jean-François Rouquette; €€€€; Modern Cuisine; N/A, N/A; Park Hyatt Paris-Vendôme, 5 rue de la Paix, Paris, 75002, France; https://www.paris-restaurant-pur.fr
+Baca'v par Gilles Choukroun; €€; Traditional Cuisine; 48.8391336, 2.3560625; 6 rue des Fossés-Saint-Marcel, Paris, 75005, France; https://www.bacav.paris/
+Dante; €€; Modern Cuisine; 48.8747154, 2.3539324; 14 rue de Paradis, Paris, 75010, France; https://www.danterestaurant.info
+Espadon; €€€€; Creative; N/A, N/A; Ritz Paris, 15 place Vendôme, Paris, 75001, France; https://sites.ritzparis.com/espadon/
+Godaille; €€; Modern Cuisine; 48.8507331, 2.376852; 9 rue Antoine-Vollon, Paris, 75012, France; http://www.restaurantgodaille.fr
+L'Ardoise; €€; Traditional Cuisine; 48.8662796, 2.3269751; 28 rue du Mont-Thabor, Paris, 75001, France; https://lardoise-paris.com/
+Abri Soba; €€; Japanese; 48.8749507, 2.3444377; 10 rue Saulnier, Paris, 75009, France; NONE
+Bonhomme; €€; Modern Cuisine; 48.8751302, 2.3481901; 58 rue du Faubourg-Poissonnière, Paris, 75010, France; https://bonhomme-resto.fr
+Table - Bruno Verjus; €€€€; Modern Cuisine; 48.8487639, 2.3758751; 3 rue de Prague, Paris, 75012, France; http://www.table.paris
+Le Chateaubriand; €€€; Modern Cuisine; 48.8693522, 2.3713516; 129 avenue Parmentier, Paris, 75011, France; http://www.lechateaubriand.net
+L'Agrume; €€; Modern Cuisine; 48.838775, 2.3561596; 15 rue des Fossés-Saint-Marcel, Paris, 75005, France; https://restaurant-lagrume.fr/fr
+Erso; €€; Modern Cuisine; 48.8624327, 2.3780958; 18 rue Saint-Ambroise, Paris, 75011, France; http://www.erso-restaurant.fr
+Eunoé; €€; Modern Cuisine; 48.860825, 2.3789136; 6 rue Rochebrune, Paris, 75011, France; http://www.eunoe-restaurant.com
+Chocho; €€€; tive, Modern Cuisine; 48.8756802, 2.3492156; 54 rue de Paradis, Paris, 75010, France; https://chocho.becsparisiens.fr/
+Deux Bistrot de chefs; €€; Modern Cuisine; 48.8681239, 2.3739291; 58 rue de la Fontaine-au-Roi, Paris, 75011, France; http://www.deux-restaurant.fr
+Quinsou; €€€€; Creative; 48.8476463, 2.3254887; 33 rue de l'Abbé-Grégoire, Paris, 75006, France; https://www.quinsourestaurant.fr/
+Le Cotte Rôti; €€; Modern Cuisine; 48.8482078, 2.3767212; 1 rue de Cotte, Paris, 75012, France; https://lecotteroti.fr/
+Sellae; €€; Modern Cuisine; 48.8387321, 2.3596622; 18 rue des Wallons, Paris, 75013, France; https://sellae-restaurant.com/
+Pianovins; €€; isine, Farm to table; 48.8524065, 2.3791967; 46 rue Trousseau, Paris, 75011, France; http://www.pianovins.fr
+Virtus; €€€€; Modern Cuisine; 48.8502429, 2.378162; 29 rue de Cotte, Paris, 75012, France; https://www.virtus-paris.com
+NESO; €€€€; Creative; 48.8761115, 2.347325; 3 rue Papillon, Paris, 75009, France; http://www.neso.paris
+Alluma; €€€; ean Cuisine, Israeli; 48.8681868, 2.3750271; 151 rue Saint-Maur, Paris, 75011, France; https://alluma-paris.com/
+ES; €€€€; rn Cuisine, Creative; 48.8563832, 2.321247; 91 rue de Grenelle, Paris, 75007, France; https://www.es-restaurant.fr
+L'Assaggio; €€€; Italian; N/A, N/A; Castille Paris, 37 rue Cambon, Paris, 75001, France; http://collezione.starhotels.com/fr/nos-hotels/castille/restaurant-et-bar/restaurant-lassaggio.html
+Toyo; €€€€; Creative; 48.8426269, 2.3301536; 17 rue Jules-Chaplain, Paris, 75006, France; https://www.restaurant-toyo.fr/
+Louis; €€€€; Modern Cuisine; 48.8750657, 2.3388038; 23 rue de la Victoire, Paris, 75009, France; http://www.stephanepitre.fr
+Septime; €€€€; Modern Cuisine; 48.8536035, 2.3808315; 80 rue de Charonne, Paris, 75011, France; https://www.septime-charonne.fr/
+Clamato; €€; food, Modern Cuisine; 48.8536035, 2.3808315; 80 rue de Charonne, Paris, 75011, France; https://www.clamato-charonne.fr/
+Double Dragon; €€; Asian; 48.8625334, 2.3799298; 52 rue Saint-Maur, Paris, 75011, France; https://www.doubledragonparis.com/
+Le Baudelaire; €€€€; Modern Cuisine; N/A, N/A; Le Burgundy, 6-8 rue Duphot, Paris, 75001, France; https://www.lebaudelaire.com
+Maison; €€€€; Modern Cuisine; 48.8637658, 2.379208; 3 rue Saint-Hubert, Paris, 75011, France; https://www.maison-sota.com/
+Tadam; €€; Modern Cuisine; 48.8370478, 2.3560076; 14 rue du Jura, Paris, 75013, France; https://www.tadam-paris.fr/
+Towa; €€€; Modern Cuisine; 48.8496627, 2.3792512; 75 rue Crozatier, Paris, 75012, France; https://www.towarestaurantparis.fr/
+Mâche; €€€; Creative; 48.8770974, 2.3510171; 61 rue de Chabrol, Paris, 75010, France; https://mache.restaurant/
+Brion; €€€; Modern Cuisine; 48.8764778, 2.3419178; 17 rue Lamartine, Paris, 75009, France; http://www.brion-restaurant.fr
+Le Servan; €€; Modern Cuisine; 48.8610499, 2.3813498; 32 rue Saint-Maur, Paris, 75011, France; https://leservan.fr
+Sourire Le Restaurant; €€€; Modern Cuisine; 48.8371975, 2.3420414; 15 rue de la Santé, Paris, 75013, France; https://www.sourire-restaurant.com/
+Mamagoto; €€; Modern Cuisine; 48.8772765, 2.3545051; 5 rue des Petits-Hôtels, Paris, 75010, France; https://mamagoto.paris/
+Chez Monsieur; €€€; Traditional Cuisine; 48.8688448, 2.3250747; 11 rue du Chevalier-de-Saint-George, Paris, 75008, France; https://www.chezmonsieur.fr/
+Automne; €€€€; Modern Cuisine; 48.8547698, 2.3821392; 11 rue Richard-Lenoir, Paris, 75011, France; https://www.automne-akishige.com
+jjii; €€€; tive, Modern Cuisine; 48.8778723, 2.3492219; 92 rue du Faubourg-Poissonnière, Paris, 75010, France; http://www.restaurantjjii.fr
+Le Sirocco; €€; Moroccan; 48.8358477, 2.351771; 8 bis rue des Gobelins, Paris, 75013, France; https://restaurantlesirocco.fr/
+Jeanne-Aimée; €€€; Modern Cuisine; 48.8762822, 2.3385097; 3 rue Bourdaloue, Paris, 75009, France; http://www.restaurantjeanneaimee.com
+Marie Akaneya; €€€€; Japanese, Barbecue; 48.8708046, 2.3269381; 12 rue Godot-de-Mauroy, Paris, 75009, France; http://www.marieakaneya.com
+Montée; €€€; Modern Cuisine; 48.8407933, 2.3306715; 9 rue Léopold-Robert, Paris, 75014, France; https://restaurant-montee.fr/
+Dame Augustine; €€; Modern Cuisine; 48.83650508380154, 2.3520454415097234; 32 avenue des Gobelins, Paris, 75013, France; http://www.dameaugustine.com
+Café des Ministères; €€; Traditional Cuisine; 48.8606285, 2.3192994; 83 rue de l'Université, Paris, 75007, France; https://www.cafedesministeres.fr/
+Nous 4; €€; Traditional Cuisine; 48.8468899, 2.3791078; 3 rue Beccaria, Paris, 75012, France; https://www.nous4restaurant.com/
+Vaisseau; €€€€; Creative; 48.8531577, 2.3826798; 35 rue Faidherbe, Paris, 75011, France; http://www.restaurant-vaisseau.com
+Caillebotte; €€; Modern Cuisine; 48.8771146, 2.3408373; 8 rue Hippolyte-Lebas, Paris, 75009, France; http://www.lapantruchoise.com
+Simone, Le Resto...; €€; le, Seasonal Cuisine; 48.8353427, 2.3479328; 33 boulevard Arago, Paris, 75013, France; http://www.simonelerestolacave.com/
+Hémicycle; €€€€; Modern Cuisine; 48.8600405, 2.3182935; 5 rue de Bourgogne, Paris, 75007, France; http://www.hemicycle.paris
+Capsule; €€; Traditional Cuisine; 48.8368287, 2.3381251; 2 rue Cassini, Paris, 75014, France; http://www.capsule.restaurant
+Jouvence; €€; Modern Cuisine; 48.853291955048604, 2.3702177752245874; 172 bis rue du Faubourg-Saint-Antoine, Paris, 75012, France; https://www.jouvence.paris/
+Anicia, table nature; €€€; Modern Cuisine; 48.8467029, 2.3212725; 97 rue du Cherche-Midi, Paris, 75006, France; https://www.anicia-paris.com/
+Mieux; €€; Modern Cuisine; 48.8766497, 2.3368624; 21 rue Saint-Lazare, Paris, 75009, France; https://www.mieux-restaurant.com/
+Osteria Ferrara; €€; Italian; 48.8512398, 2.3832978; 7 rue du Dahomey, Paris, 75011, France; https://www.osteriaferrara.com/
+Le Petit Lucas; €€€; Traditional Cuisine; 48.8695227, 2.3230867; 9 place de la Madeleine, Paris, 75008, France; https://www.lucascarton.com/
+Nonos par Paul Pairet; €€€; Modern Cuisine; 48.86762185, 2.3213665307395894; Le Crillon, 10 place de la Concorde, Paris, 75008, France; https://www.rosewoodhotels.com/fr/hotel-de-crillon/dining/nonos-comestibles-paul-pairet
+L'Écrin; €€€€; Creative; 48.86762185, 2.3213665307395894; Hôtel de Crillon, 10 place de la Concorde, Paris, 75008, France; https://www.rosewoodhotels.com/fr/hotel-de-crillon/dining/l-ecrin
+L'Inconnu; €€€; Italian, Creative; 48.8501305, 2.3186274; 4 rue Pierre-Leroux, Paris, 75007, France; https://restaurant-linconnu.fr/
+Aida; €€€€; Japanese; 48.8501982, 2.318677; 1 rue Pierre-Leroux, Paris, 75007, France; NONE
+Plume; €€€; Modern Cuisine; 48.8487978, 2.3192074; 24 rue Pierre-Leroux, Paris, 75007, France; https://www.restaurantplume.com/
+Alleudium; €€€; Modern Cuisine; 48.8784637, 2.3428605; 24 rue Rodier, Paris, 75009, France; https://www.alleudium.com/
+Auguste; €€€€; Modern Cuisine; 48.8562753, 2.3170116; 54 rue de Bourgogne, Paris, 75007, France; https://www.restaurantauguste.fr/
+La Condesa; €€€€; Creative; 48.8782323, 2.3426215; 13 rue Rodier, Paris, 75009, France; http://www.lacondesa-paris.com
+Nakatani; €€€€; Modern Cuisine; 48.8484024, 2.3195757; 27 rue Pierre-Leroux, Paris, 75007, France; http://www.restaurant-nakatani.com
+Arpège; €€€€; Creative; 48.855754, 2.3170135; 84 rue de Varenne, Paris, 75007, France; https://www.alain-passard.com/
+Lucas Carton; €€€€; Modern Cuisine; 48.8695227, 2.3230867; 9 place de la Madeleine, Paris, 75008, France; https://www.lucascarton.com/
+Akrame; €€€€; Creative; 48.8713967, 2.325251; 7 rue Tronchet, Paris, 75008, France; https://www.akrame.com/
+Aux 2 K; €€; Modern Cuisine; 48.8788094, 2.3449039; 5 rue Louise-Émilie-de-la-Tour-d'Auvergne, Paris, 75009, France; https://aux2k.fr/
+Maison Brut; €€€; Modern Cuisine; 48.8793397, 2.3492016; 18 rue d'Abbeville, Paris, 75009, France; http://www.maisonbrutparis.fr
+Le Duc; €€€€; Seafood; 48.8386436, 2.3311131; 243 boulevard Raspail, Paris, 75014, France; https://restaurantleduc.com/
+LAZU; €€; Modern Cuisine; 48.8790663, 2.3454394; 47 rue Marguerite-de-Rochechouart, Paris, 75009, France; https://www.lazu.fr/
+Mansouria; €€; Moroccan; 48.8514222, 2.3837278; 11 rue Faidherbe, Paris, 75011, France; http://www.mansouria.fr
+Chez Michel; €€; Traditional Cuisine; 48.8795224, 2.3522417; 10 rue de Belzunce, Paris, 75010, France; https://www.restaurantchezmichel.fr/
+ASPIC; €€€€; Modern Cuisine; 48.879171, 2.3436787; 24 rue Louise-Émilie-de-la-Tour-d'Auvergne, Paris, 75009, France; https://www.aspic-restaurant.fr/
+Bistrot Paul Bert; €€; Traditional Cuisine; 48.8522292, 2.3848682; 18 rue Paul-Bert, Paris, 75011, France; https://bistrotpaulbert.fr/fr
+Le Chardenoux; €€€; ine, Classic Cuisine; 48.8527745, 2.3850435; 1 rue Jules-Vallès, Paris, 75011, France; https://restaurantlechardenoux.com/
+Le 6; €€; Modern Cuisine; 48.8513485, 2.3846064; 6 rue Paul-Bert, Paris, 75011, France; NONE
+Chenapan; €€€; Modern Cuisine; 48.8792399, 2.3433739; 28 rue Louise-Émilie-de-la-Tour-d'Auvergne, Paris, 75009, France; https://www.chenapan-restaurant.fr/
+Le Grand Bain; €€; Modern Cuisine; 48.8716321, 2.3785781; 14 rue Dénoyez, Paris, 75020, France; https://www.legrandbainparis.com/fr/
+La Contre Allée; €€; Modern Cuisine; 48.8356166, 2.3339028; 83 avenue Denfert-Rochereau, Paris, 75014, France; https://www.contreallee.net/
+Contraste; €€€€; Modern Cuisine; 48.8704774, 2.3212791; 18 rue d'Anjou, Paris, 75008, France; https://www.contraste.paris/
+Braise; €€€; Modern Cuisine; 48.87356216977936, 2.3224646000121956; 19 rue d'Anjou, Paris, 75008, France; http://www.braise.paris
+Le Tire-Bouchon Rodier; €€; ine, Classic Cuisine; 48.8803735, 2.3437236; 47 rue Rodier, Paris, 75009, France; http://www.letirebouchonrodier.com
+L'Évadé; €€; Modern Cuisine; 48.879227, 2.3376908; 23 rue Clauzel, Paris, 75009, France; http://www.levade.fr
+Pétrelle; €€€; isine, Farm to table; 48.8809219, 2.3467523; 34 rue Pétrelle, Paris, 75009, France; https://www.petrelle.fr
+CoDa; €€; Modern Cuisine; 48.8777341, 2.3322495; 15 rue de la Tour-des-Dames, Paris, 75009, France; NONE
+Le Clos Y; €€€; Creative; 48.843018, 2.320929; 27 avenue du Maine, Paris, 75015, France; https://www.le-clos-y.com/
+Les Affranchis; €€€; Modern Cuisine; 48.879532, 2.3370205; 5 rue Henri-Monnier, Paris, 75009, France; https://lesaffranchisrestaurant.com/fr
+Alléno Paris au Pavillon Ledoyen; €€€€; Creative; 48.866109250553166, 2.31568344783491; 8 avenue Dutuit, Paris, 75008, France; https://www.yannick-alleno.com
+L'Abysse au Pavillon Ledoyen; €€€€; Japanese, Creative; 48.866109250553166, 2.31568344783491; 8 avenue Dutuit, Paris, 75008, France; https://www.yannick-alleno.com/fr/
+Pavyllon; €€€€; Modern Cuisine; 48.866109250553166, 2.31568344783491; 8 avenue Dutuit, Paris, 75008, France; https://www.yannick-alleno.com/fr/
+Le Grand Restaurant - Jean-François Piège; €€€€; Creative; 48.8701168, 2.3192755; 7 rue d'Aguesseau, Paris, 75008, France; https://xn--jeanfranoispiege-jpb.com/le-grand-restaurant
+Le Pantruche; €€; Modern Cuisine; 48.8804751, 2.3398084; 3 rue Victor-Massé, Paris, 75009, France; https://www.lapantruchoise.com/
+Le Comptoir Boutary; €€€; Modern Cuisine; 48.8791711, 2.3348244; 32 rue Catherine-de-la-Rochefoucauld, Paris, 75009, France; http://www.comptoir-boutary.com
+Les Canailles Pigalle; €€; Traditional Cuisine; 48.8792957, 2.3345866; 25 rue La Bruyère, Paris, 75009, France; http://www.restaurantlescanailles.fr
+Benjamin Schmitt Restaurant; €€€; sine, Modern Cuisine; 48.8798232, 2.3349931; 41 rue Catherine-de-La-Rochefoucauld, Paris, 75009, France; http://www.schmittrestaurant.fr
+BRU; €€; dern Cuisine, Creole; 48.8794062, 2.33375; 28 rue Jean-Baptiste-Pigalle, Paris, 75009, France; http://www.bruparis.com
+Marso & Co; €€; editerranean Cuisine; 48.8317133, 2.3463715; 16 rue Vulpian, Paris, 75013, France; https://www.tomygousset.com/marso-and-co/
+Minore; €€€; Modern Cuisine; 48.8819586, 2.3459074; 4 avenue Trudaine, Paris, 75009, France; NONE
+Lazare; €€; Traditional Cuisine; N/A, N/A; Parvis de la gare Saint-Lazare, rue Intérieure, Paris, 75008, France; https://lazare-paris.fr/
+Lao Siam; €€; Asian; 48.8731549, 2.3809371; 49 rue de Belleville, Paris, 75019, France; NONE
+Frenchie Pigalle; €€€; Modern Cuisine; 48.8808688, 2.3375564; 29 rue Victor-Massé, Paris, 75009, France; http://www.frenchie-pigalle.com
+Bloom Garden; €€€; rn Cuisine, Creative; N/A, N/A; Bloom House, 23 rue du Château-Landon, Paris, 75010, France; https://bloomhouse-hotel.com/restaurant/
+Dilia; €€€; Creative; 48.8686397, 2.3862179; 1 rue d'Eupatoria, Paris, 75020, France; http://www.dilia.fr
+Divellec; €€€€; Seafood; 48.8609713, 2.3113734; 18 rue Fabert, Paris, 75007, France; https://www.divellec-paris.fr/
+À Table; €€; Modern Cuisine; 48.8465511, 2.3138238; 28 rue du Général-Bertrand, Paris, 75007, France; http://www.atable-restaurant.fr
+Le Baratin; €€; Traditional Cuisine; 48.8731152, 2.3828077; 3 rue Jouye-Rouve, Paris, 75020, France; NONE
+Clutch; €€; Creative; 48.8504211, 2.3902301; 62 rue de Montreuil, Paris, 75011, France; http://www.restaurant-clutch.fr
+Le Cadoret; €€; Traditional Cuisine; 48.8747861, 2.3810834; 1 rue Pradier, Paris, 75019, France; NONE
+Adami; €€; Italian; 48.8816399, 2.334038; 19 bis rue Pierre-Fontaine, Paris, 75009, France; http://www.adamiparis.com
+Petrossian; €€€; Seafood; 48.8609742, 2.3104452; 13 boulevard de la Tour-Maubourg, Paris, 75007, France; https://restaurant.petrossian.fr/
+Bistrot Augustin; €€; Traditional Cuisine; 48.8356224, 2.3249424; 79 rue Daguerre, Paris, 75014, France; https://www.augustin-bistrot.fr/
+Tosca; €€€€; Italian; 48.8709971, 2.3153969; 18 rue du Cirque, Paris, 75008, France; https://www.robertonaldicollection.com/fr/splendide-royal-paris/restaurant-romantique-paris
+Gemellus; €€€; Modern Cuisine; 48.8515887, 2.3106463; 37 avenue Duquesne, Paris, 75007, France; https://gemellus-restaurant.fr
+David Toutain; €€€€; Creative; 48.8602544, 2.3096611; 29 rue Surcouf, Paris, 75007, France; https://www.davidtoutain.com/
+Penati al Baretto; €€€; Italian; 48.8543663, 2.3094091; 94 boulevard de la Tour-Maubourg, Paris, 75007, France; http://www.penatialbaretto.eu
+Le Gentil; €€; Modern Cuisine; 48.8602661, 2.3094984; 26 rue Surcouf, Paris, 75007, France; NONE
+Perception; €€€; rn Cuisine, Creative; 48.8811772, 2.3314693; 53 rue Blanche, Paris, 75009, France; https://www.restaurant-perception.com/
+Tomy & Co; €€€; rn Cuisine, Creative; 48.8605426, 2.3094173; 22 rue Surcouf, Paris, 75007, France; https://www.tomygousset.com/
+Maison Dubois; €€€€; Modern Cuisine; 48.8763002, 2.3213256; 2 rue de Vienne, Paris, 75008, France; https://maisonduboisparis.fr/
+MoSuke; €€€€; Modern Cuisine; 48.8362707, 2.3224104; 11 rue Raymond-Losserand, Paris, 75014, France; http://www.mosuke-restaurant.com
+Le Gabriel - La Réserve Paris; €€€€; Creative; N/A, N/A; La Réserve Paris, 42 avenue Gabriel, Paris, 75008, France; https://www.lareserve-paris.com/
+Le Cornichon; €€; Modern Cuisine; 48.8341785, 2.3261353; 34 rue Gassendi, Paris, 75014, France; https://lecornichon.fr/
+Kwon; €€; Korean; 48.832501, 2.3295562; 7 rue Ernest-Cresson, Paris, 75014, France; NONE
+Épicure; €€€€; Modern Cuisine; 48.87182675, 2.3150084014627343; Le Bristol, 112 rue du Faubourg-Saint-Honoré, Paris, 75008, France; https://www.oetkercollection.com/fr/hotels/le-bristol-paris/restaurants-et-bar/epicure/
+L'Escudella; €€; Modern Cuisine; 48.8505602, 2.3091812; 41 avenue de Ségur, Paris, 75007, France; http://www.escudella.fr
+Pilgrim; €€€; Modern Cuisine; 48.8426266, 2.3138853; 8 rue Nicolas-Charlet, Paris, 75015, France; https://www.pilgrimparis.com/
+La Traboule; €€€; ern Cuisine, Italian; 48.8725306, 2.3154205869821647; 27 rue de Penthièvre, Paris, 75008, France; https://restaurantlatraboule.fr
+Le Florimond; €€; Traditional Cuisine; 48.8556914, 2.3080031; 19 avenue de La Motte-Picquet, Paris, 75007, France; https://www.leflorimond.com/
+114, Faubourg; €€€€; Modern Cuisine; 48.87182675, 2.3150084014627343; Le Bristol, 114 rue du Faubourg-Saint-Honoré, Paris, 75008, France; https://www.oetkercollection.com/fr/hotels/le-bristol-paris/restaurants-et-bar/114-faubourg/
+Signature Montmartre; €€; Fusion; 48.8844162, 2.3412851; 12 rue des Trois-Frères, Paris, 75018, France; https://signature-montmartre.fr/
+La Scène; €€€€; Modern Cuisine; 48.8720354, 2.314504; 32 avenue Matignon, Paris, 75008, France; https://www.la-scene.paris/
+L'Antre Amis; €€; Modern Cuisine; 48.8467609, 2.3101974; 9 rue Bouchut, Paris, 75015, France; https://www.lantreamis.com/
+Lasserre; €€€€; Classic Cuisine; N/A, N/A; 17 avenue Franklin-D.-Roosevelt, Paris, 75008, France; https://www.restaurant-lasserre.com/fr/
+Le Clarence; €€€€; Creative; N/A, N/A; 31 avenue Franklin-D.-Roosevelt, Paris, 75008, France; https://www.le-clarence.paris/la-table/
+Aux Plumes; €€; Modern Cuisine; 48.832281, 2.3277372; 45 rue Boulard, Paris, 75014, France; https://www.auxplumes.com/
+Néva Cuisine; €€; Modern Cuisine; 48.8801922, 2.323968; 2 rue de Berne, Paris, 75008, France; https://www.nevacuisineparis.com/
+L'Assiette; €€€; Classic Cuisine; 48.8333593, 2.3240593; 181 rue du Château, Paris, 75014, France; https://restaurant-lassiette.paris/
+Origines Restaurant; €€€€; Modern Cuisine; 48.8702009, 2.311241; 6 rue de Ponthieu, Paris, 75008, France; https://www.origines-restaurant.com/
+Le Mermoz; €€€; Modern Cuisine; 48.8707033, 2.3115; 16 rue Jean-Mermoz, Paris, 75008, France; https://www.lemermozparis.fr/
+24 - Le Restaurant; €€; Modern Cuisine; 48.871086, 2.3117876; 24 rue Jean-Mermoz, Paris, 75008, France; https://www.24lerestaurant.fr/
+Kigawa; €€€; Traditional Cuisine; 48.8331436, 2.3242782; 186 rue du Château, Paris, 75014, France; https://www.kigawa.fr/
+L'Ami Jean; €€€; Traditional Cuisine; 48.8603183, 2.3059915; 27 rue Malar, Paris, 75007, France; https://lamijean.fr/
+Mensae; €€; Modern Cuisine; 48.8756921, 2.3857208; 23 rue Melingue, Paris, 75019, France; https://www.mensae-restaurant.com/
+Kisin; €€; Japanese; 48.870224387363, 2.311009026505887; 7-9 rue de Ponthieu, Paris, 75008, France; https://udon-kisin.fr/
+Ose; €€; Modern Cuisine; 48.8852149, 2.3373223; 3 rue Durantin, Paris, 75018, France; https://oseabbesses.fr/
+Mandoobar; €; Korean; 48.8793904, 2.3211278; 7 rue d'Édimbourg, Paris, 75008, France; https://www.mandoobar.fr/
+Milagro; €€; Modern Cuisine; 48.8549149, 2.3056238; 85 avenue Bosquet, Paris, 75007, France; https://www.milagroparis.com
+Sushi Shunei; €€€€; Japanese, Sushi; 48.8850881, 2.3358119; 3 rue Audran, Paris, 75018, France; https://www.sushishunei.com/
+Le Radis Beurre; €€; Traditional Cuisine; 48.846333, 2.3078319; 51 boulevard Garibaldi, Paris, 75015, France; https://www.restaurantleradisbeurre.com/
+Rosemarie; €€; Traditional Cuisine; 48.8610602, 2.3056736; 149 rue de l'Université, Paris, 75007, France; http://www.rosemariebistrotparis.com
+Adraba; €€€; editerranean Cuisine; 48.8852216, 2.3349185; 40 rue Véron, Paris, 75018, France; http://www.adraba-paris.com
+Le Matré; €€; Modern Cuisine; 48.885266, 2.3348016; 42 rue Véron, Paris, 75018, France; http://www.lematre.com
+Nosso; €€€; Modern Cuisine; 48.8317019, 2.3743879; 22 promenade Claude-Lévi-Strauss, Paris, 75013, France; https://www.nosso-restaurant.fr/
+La Grande Ourse; €€; Modern Cuisine; 48.8322137, 2.3233454; 9 rue Georges-Saché, Paris, 75014, France; https://www.restaurantlagrandeourse.fr/
+Quedubon; €€; Traditional Cuisine; 48.878097, 2.3843937; 22 rue du Plateau, Paris, 75019, France; https://restaurantquedubon.fr/
+Le Cheval d'Or; €€; Asian; 48.8757788, 2.3873553; 21 rue de la Villette, Paris, 75019, France; https://chevaldorparis.com/
+Via del Campo; €€€; Italian; 48.8561324, 2.3041092; 22 rue du Champ-de-Mars, Paris, 75007, France; https://www.via-del-campo.paris/
+Des Terres; €€; Modern Cuisine; 48.8546385, 2.3974501; 82 rue Alexandre-Dumas, Paris, 75020, France; NONE
+Soces; €€; Modern Cuisine; 48.8755065860046, 2.3874073147722834; 32 rue de la Villette, Paris, 75019, France; http://www.soces.fr
+Pertinence; €€€€; Modern Cuisine; 48.85706, 2.3034335; 29 rue de l'Exposition, Paris, 75007, France; http://www.restaurantpertinence.com
+Trente-Trois; €€€€; Modern Cuisine; N/A, N/A; Maison Villeroy, 33 rue Jean-Goujon, Paris, 75008, France; https://www.restaurant-trente-trois.com/
+Mojju; €€; rean, Modern Cuisine; 48.8581564, 2.3025566; 4 rue de l'Exposition, Paris, 75007, France; http://www.mojju-restaurant.com
+Lao Lane Xang 2; €; South East Asian; 48.8255864, 2.3614063; 102 avenue d'Ivry, Paris, 75013, France; NONE
+Jean Imbert au Plaza Athénée; €€€€; Classic Cuisine; 48.8661751, 2.3042684; 25 avenue Montaigne, Paris, 75008, France; https://www.dorchestercollection.com/fr/paris/hotel-plaza-athenee/
+L'Arôme; €€€€; Modern Cuisine; 48.8731735, 2.308816; 3 rue Saint-Philippe-du-Roule, Paris, 75008, France; http://www.larome-paris.com
+Bistrot Marloe; €€; Modern Cuisine; 48.8727501, 2.3084418; 12 rue du Commandant-Rivière, Paris, 75008, France; https://www.marloe.fr/
+Le Relais Plaza; €€€; Classic Cuisine; 48.8661751, 2.3042684; 25 avenue Montaigne, Paris, 75008, France; https://www.dorchestercollection.com/fr/paris/hotel-plaza-athenee/
+Le Violon d'Ingres; €€€€; ine, Classic Cuisine; 48.8582039, 2.3018386; 135 rue Saint-Dominique, Paris, 75007, France; http://www.leviolondingres.paris
+Bistrot des Fables; €€; Traditional Cuisine; 48.8580951, 2.301575; 139 rue Saint-Dominique, Paris, 75007, France; http://www.bistrotdesfables.fr
+Chantoiseau; €€€; Modern Cuisine; 48.8877923, 2.3347096; 63 rue Lepic, Paris, 75018, France; https://www.chantoiseau-paris.fr/
+Jupi; €€; Modern Cuisine; 48.8844255, 2.3242819; 25 rue des Dames, Paris, 75017, France; http://www.jupi-paris.fr
+Table Penja; €€€; Modern Cuisine; 48.85919925, 2.3013130053788586; 2 rue Sédillot, Paris, 75007, France; https://tablepenja.paris
+Mova; €€; Traditional Cuisine; 48.8841453, 2.3232369; 39 rue des Dames, Paris, 75017, France; https://www.mova-paris.fr/
+Arnaud Nicolas; €€; Modern Cuisine; 48.8569409, 2.3010006; 46 avenue de la Bourdonnais, Paris, 75007, France; https://arnaudnicolas.paris/
+Anona; €€€€; Modern Cuisine; 48.8819442, 2.318691; 80 boulevard des Batignolles, Paris, 75017, France; https://www.anona.fr/
+Dandelion; €€; Modern Cuisine; 48.8545568, 2.4006858; 46 rue des Vignoles, Paris, 75020, France; http://www.restaurantdandelion.com
+Apicius; €€€€; Modern Cuisine; 48.8733394, 2.307241; 20 rue d'Artois, Paris, 75008, France; https://restaurant-apicius.com/
+a.lea; €€; isine, Farm to table; 48.8893363, 2.3413682; 39 rue Lamarck, Paris, 75018, France; https://www.alearestaurant.com/
+Sancerre Rive Gauche; €€€; Modern Cuisine; 48.859239, 2.3004093; 22 avenue Rapp, Paris, 75007, France; https://www.sancerrerivegauche.com/
+L'Envolée - La Demeure Montaigne; €€€€; Modern Cuisine; 48.8677851, 2.3032087; 18 rue Clément-Marot, Paris, 75008, France; http://www.lademeuremontaigne.com
+Okuda; €€€€; Japanese; 48.8669757, 2.3027092; 7 rue de la Trémoille, Paris, 75008, France; https://www.okuda.fr/
+Marius et Janette; €€€€; Seafood; 48.8652661, 2.3017086; 4 avenue George-V, Paris, 75008, France; https://mariusetjanette-paris.com/
+Bistrotters; €€; Modern Cuisine; 48.8328233, 2.3148509; 9 rue Decrès, Paris, 75014, France; https://www.bistrotters.com/
+Shirvan Café Métisse; €€€; Modern Cuisine; 48.8649797, 2.3011125; 5 place de l'Alma, Paris, 75008, France; https://www.shirvancafemetisse.fr/
+Gare au Gorille; €€; Modern Cuisine; 48.8835218, 2.3198858; 68 rue des Dames, Paris, 75017, France; https://gareaugorille.fr/fr
+Mokko; €€; Modern Cuisine; 48.8900555, 2.3422825; 3 rue Francœur, Paris, 75018, France; https://mokko-restaurant.com
+L'Attilio; €€€€; ern Cuisine, Italian; 48.8744041, 2.3070523; 184 rue du Faubourg-Saint-Honoré, Paris, 75008, France; https://lattilio.com/
+Au Bon Accueil; €€€; Modern Cuisine; 48.8597074, 2.2992208; 14 rue de Monttessuy, Paris, 75007, France; https://www.aubonaccueilparis.com
+Le Bistrot du Maquis; €€; Traditional Cuisine; 48.8896145, 2.3363907; 69 rue Caulaincourt, Paris, 75018, France; https://www.bistrotdumaquis.com/
+Les Ombres; €€€€; Modern Cuisine; 48.8583409153848, 2.2920857075476984; 27 quai Jacques-Chirac, Paris, 75007, France; http://www.lesombres-restaurant.com
+Il Ristorante - Niko Romito; €€€€; Italian; N/A, N/A; Hôtel Bulgari, 30 avenue George-V, Paris, 75008, France; https://www.bulgarihotels.com/fr_FR/paris/dining/il-ristorante-niko-romito
+20 Eiffel; €€; sine, Modern Cuisine; 48.8594682, 2.298537; 20 rue de Monttessuy, Paris, 75007, France; https://www.restaurant20eiffel.com
+Fana; €€; Modern Cuisine; 48.8916272, 2.3460591; 14 rue Ferdinand-Flocon, Paris, 75018, France; http://www.fanabistro.fr
+L'Orangerie; €€€€; Modern Cuisine; 48.868784, 2.3006774; Four Seasons George V, 31 avenue George-V, Paris, 75008, France; https://www.fourseasons.com/fr/paris/dining/restaurants/l-orangerie/
+Le Cinq; €€€€; Modern Cuisine; 48.868784, 2.3006774; Four Seasons Hotel George V, 31 avenue George-V, Paris, 75008, France; https://www.fourseasons.com
+Le George; €€€€; Italian; 48.868784, 2.3006774; Four Seasons George V, 31 avenue George-V, Paris, 75008, France; https://www.fourseasons.com/fr/paris/dining/restaurants/le_george/
+Akira Back Paris; €€€€; Japanese, Fusion; N/A, N/A; Prince de Galles, 33 avenue George-V, Paris, 75008, France; https://www.akirabackparis.com/fr/
+19.20 by Norbert Tarayre; €€; Traditional Cuisine; N/A, N/A; Prince de Galles, 33 avenue George-V, Paris, 75008, France; https://www.19-20paris.fr/
+Le 39V; €€€; Modern Cuisine; 48.8698805, 2.3007386; 39 avenue George-V, Paris, 75008, France; https://www.le39v.com/
+L'Esquisse; €€; Modern Cuisine; 48.8912596, 2.3384822; 151 bis rue Marcadet, Paris, 75018, France; http://www.esquisse-paris18.fr
+Pho Tai; €; Vietnamese; 48.8221264, 2.3613884; 13 rue Philibert-Lucot, Paris, 75013, France; NONE
+Etsi; €€; Greek; 48.8903545, 2.3330087; 23 rue Eugène-Carrière, Paris, 75018, France; https://www.etsi-paris.fr/
+L'Hommage; €€; Modern Cuisine; 48.8223334, 2.3630991; 36 avenue de Choisy, Paris, 75013, France; https://www.lhommageparis.com/
+Chakaiseki Akiyoshi; €€€€; Japanese; 48.8469863, 2.298833; 59 rue Letellier, Paris, 75015, France; https://chakaiseki-akiyoshi.fr
+Galanga; €€€€; Modern Cuisine; N/A, N/A; Hôtel Monsieur George, 17 rue Washington, Paris, 75008, France; https://www.monsieurgeorge.com/Restaurant-Gastronomique-Galanga-par-Monsieur-George-Champs-Elysees
+Helen; €€€€; Seafood; 48.8750986, 2.304069; 3 rue Berryer, Paris, 75008, France; https://www.helenrestaurant.com/
+Impérial Choisy; €€; Chinese; 48.8222309, 2.3631801; 32 avenue de Choisy, Paris, 75013, France; http://www.imperialchoisy.fr
+Ploc; €€; Modern Cuisine; 48.8596231, 2.4050255; 15 rue Saint-Blaise, Paris, 75020, France; NONE
+Sharma Ji; €€; Indian; 48.8473218, 2.2982124; 16 rue Frémicourt, Paris, 75015, France; https://sharmaji.fr
+Sadarnac; €€; Modern Cuisine; 48.8595904, 2.4050515; 17 rue Saint-Blaise, Paris, 75020, France; https://www.restaurantsadarnac.fr/
+Neige d'Été; €€€€; Creative; 48.8454117, 2.2990085; 12 rue de l'Amiral-Roussin, Paris, 75015, France; https://www.neigedete.fr/
+Le Taillevent; €€€€; Classic Cuisine; 48.8741626, 2.3025042; 15 rue Lamennais, Paris, 75008, France; http://www.letaillevent.com/
+Petit Boutary; €€; Modern Cuisine; 48.8878286, 2.3224481; 16 rue Jacquemont, Paris, 75017, France; https://www.petitboutary.com/
+Monsieur Bleu; €€€; Modern Cuisine; N/A, N/A; 20 avenue de New-York, Paris, 75016, France; https://monsieurbleu-restaurant.com/
+Substance; €€€€; Creative; 48.8673254, 2.2975781; 18 rue de Chaillot, Paris, 75016, France; https://www.substance.paris/
+Jium; €€; Korean; 48.8486967, 2.2966955; 26 rue Tiphaine, Paris, 75015, France; http://www.jium.art/
+Imperial Treasure; €€€€; hinese, Shanghainese; 48.8704739, 2.2991477; 44 rue de Bassano, Paris, 75008, France; https://www.imperialtreasure.com/france/
+Don Juan II; €€€€; Creative; 48.8622863, 2.294085232512143; Port Debilly, Paris, 75016, France; https://donjuan2.yachtsdeparis.fr/
+Le CasseNoix; €€; Traditional Cuisine; 48.8534799, 2.2951266; 56 rue de la Fédération, Paris, 75015, France; https://www.le-cassenoix.fr/
+Les 110 de Taillevent; €€€; sine, Modern Cuisine; 48.875938, 2.3029124; 195 rue du Faubourg-Saint-Honoré, Paris, 75008, France; https://www.les-110-taillevent-paris.com/
+Le Jules Verne; €€€€; Modern Cuisine; N/A, N/A; Tour Eiffel - 6 avenue Gustave-Eiffel, Paris, 75007, France; https://www.restaurants-toureiffel.com/fr/restaurant-jules-verne.html
+Montcalm; €€; Modern Cuisine; 48.8928392, 2.3371204; 21 rue Montcalm, Paris, 75018, France; https://www.restaurant-montcalm.fr/
+Pierre Gagnaire; €€€€; Creative; 48.8733525, 2.3003767; 6 rue Balzac, Paris, 75008, France; http://pierregagnaire-lerestaurant.com
+L'Ouzeri; €€; Greek; 48.8933393, 2.3402038; 41 rue du Ruisseau, Paris, 75018, France; http://www.etsi-paris.fr/l-ouzeri
+Thiou; €€€; Thai; 48.8736939, 2.3003734; Hôtel Norman, 9 rue Balzac, Paris, 75008, France; https://www.hotelnorman.com/fr/restaurant-thiou.html
+Pleine Terre; €€€€; Modern Cuisine; 48.8690031, 2.2972085; 15 rue de Bassano, Paris, 75116, France; https://www.restaurant-pleineterre.com/
+Le Maquis; €€; isine, Farm to table; 48.8932087, 2.3372854; 53 rue des Cloÿs, Paris, 75018, France; https://lemaquisrestaurant.fr/
+Comme Chez Maman; €€€; Modern Cuisine; 48.8876275, 2.3181362; 5 rue des Moines, Paris, 75017, France; https://comme-chez-maman.com/
+Les Petits Parisiens; €€; Traditional Cuisine; 48.8248556, 2.3203009; 49 avenue Jean-Moulin, Paris, 75014, France; https://petits-parisiens.fr/
+Le Boréal; €€; Modern Cuisine; 48.893816, 2.3390239; 39 rue Montcalm, Paris, 75018, France; https://www.grandnordgroupe.com/home-1-1
+Ducasse sur Seine; €€€€; Modern Cuisine; 48.8622863, 2.294085232512143; Port Debilly, Paris, 75016, France; https://www.ducasse-seine.com/fr
+Il Carpaccio; €€€€; Italian; N/A, N/A; Le Royal Monceau, 37 avenue Hoche, Paris, 75008, France; https://www.leroyalmonceau.com/restaurants/ilcarpaccio/
+Shang Palace; €€€€; Chinese; 48.8637194, 2.2934262; Shangri-La, 10 avenue d'Iéna, Paris, 75116, France; https://www.shangpalaceparis.com
+Pages; €€€€; Modern Cuisine; 48.8708869, 2.2962; 4 rue Auguste-Vacquerie, Paris, 75016, France; https://www.restaurantpages.fr/
+Le Chiberta; €€€€; Modern Cuisine; 48.873534, 2.2978027; 3 rue Arsène-Houssaye, Paris, 75008, France; https://www.lechiberta.com/
+L'Atelier de Joël Robuchon - Étoile; €€€€; Creative; 48.8727993, 2.297003; 133 avenue des Champs-Élysées, Paris, 75008, France; https://atelier-robuchon-etoile.com/
+Le Faham by Kelly Rangama; €€€; Modern Cuisine; 48.8856271, 2.3117203; 108 rue Cardinet, Paris, 75017, France; http://www.lefaham.com
+Rooster; €€€; Modern Cuisine; 48.8867725, 2.3131762; 137 rue Cardinet, Paris, 75017, France; http://rooster-restaurant.com
+Onor; €€€€; Modern Cuisine; 48.87714433590177, 2.300329537586523; 258 rue du Faubourg-Saint-Honoré, Paris, 75008, France; http://www.onor-thierrymarx.com
+Jacques Faussat; €€€; Traditional Cuisine; 48.8828583, 2.3065399; 54 rue Cardinet, Paris, 75017, France; https://www.jacquesfaussat.com/
+La Table du Caviste Bio; €€; Modern Cuisine; 48.8823535, 2.3038656; 55 rue de Prony, Paris, 75017, France; https://www.latable.bio/
+Agapé; €€€€; Modern Cuisine; 48.8849199, 2.3069587; 51 rue Jouffroy-d'Abbans, Paris, 75017, France; https://www.agape-paris.fr/
+L'Oiseau Blanc; €€€€; Creative; 48.8707617, 2.2931271; 19 avenue Kléber, Paris, 75116, France; https://www.peninsula.com/fr/paris/hotel-fine-dining/french-rooftop-loiseau-blanc
+LiLi; €€€€; Chinese; 48.8707617, 2.2931271; 19 avenue Kléber, Paris, 75116, France; https://www.peninsula.com/fr/paris/hotel-fine-dining/lili-cantonese-chinese
+Coretta; €€; Modern Cuisine; 48.8904904, 2.3170591; 151 bis rue Cardinet, Paris, 75017, France; https://www.restaurantcoretta.com/
+Étude; €€€€; Creative; 48.8658334, 2.2908179; 14 rue du Bouquet-de-Longchamp, Paris, 75016, France; https://restaurant-etude.fr/
+FOGO; €€€; Modern Cuisine; 48.8833307, 2.3045258; 8 rue Meissonier, Paris, 75017, France; http://www.fogoparis.fr
+Épisodes; €€€€; Creative; 48.8833307, 2.3045258; 8 rue Meissonier, Paris, 75017, France; https://www.episodes-paris.fr
+Astrance; €€€€; Creative; 48.8650879, 2.2899274; 32 rue de Longchamp, Paris, 75016, France; https://www.astranceparis.fr
+La Fourchette du Printemps; €€€; Modern Cuisine; 48.8876932, 2.3102628; 30 rue du Printemps, Paris, 75017, France; https://lafourchetteduprintemps.com/
+Oxte; €€€€; Mexican; 48.8758951, 2.2954072; 5 rue Troyon, Paris, 75017, France; https://www.restaurant-oxte.com/
+Bloom; €€; Vegan, Japanese; 48.8819667, 2.3016373; 99 rue Jouffroy-d'Abbans, Paris, 75017, France; http://www.bloomsushi.fr
+Alan Geaam; €€€€; Creative; 48.8714572, 2.2923141; 19 rue Lauriston, Paris, 75016, France; https://restaurant.alangeaam.fr/
+La Scène Thélème; €€€; Modern Cuisine; 48.8762593, 2.2951581; 18 rue Troyon, Paris, 75017, France; https://www.lascenetheleme.fr/
+Ōrtensia; €€€€; Modern Cuisine; 48.8583965, 2.2875546; 4 rue Beethoven, Paris, 75016, France; http://www.restaurantortensia.com
+Prunier par Yannick Alléno; €€€€; Seafood; 48.8724953, 2.2917139; 16 avenue Victor-Hugo, Paris, 75116, France; http://www.prunier.com
+Sormani; €€€; Italian; 48.8758993, 2.293756; 4 rue du Général-Lanrezac, Paris, 75017, France; http://www.sormanirestaurant.com
+Le Bistrot Flaubert; €€€; Modern Cuisine; 48.881423, 2.2986819; 10 rue Gustave-Flaubert, Paris, 75017, France; http://www.bistrotflaubert.com
+Restaurant F; €€€; Modern Cuisine; 48.8662284, 2.2883269; 10 rue Saint-Didier, Paris, 75116, France; https://www.restaurantf.fr
+Maison Rostang; €€€€; Classic Cuisine; 48.8814185, 2.2984924; 20 rue Rennequin, Paris, 75017, France; https://www.maisonrostang.com/
+Blanc; €€€€; Creative; 48.8650727, 2.2875105; 52 rue de Longchamp, Paris, 75116, France; https://blanc-paris.com/
+Le 703; €€; Traditional Cuisine; 48.8803643, 2.2960986; 9 rue Fourcroy, Paris, 75017, France; http://www.le703.fr
+Caïus; €€; Creative; 48.8774425, 2.2920513; 6 rue d'Armaillé, Paris, 75017, France; http://www.caius-restaurant.paris
+Frédéric Simonin; €€€€; Modern Cuisine; 48.879785, 2.2944764; 25 rue Bayen, Paris, 75017, France; http://www.fredericsimonin.com
+Madame FAN; €€; Chinese; 48.8800637, 2.2943154; 18 rue Bayen, Paris, 75017, France; http://www.madame-fan.com
+Mallory Gabsi; €€€€; Modern Cuisine; 48.8767531, 2.291476; 28 rue des Acacias, Paris, 75017, France; http://www.mallory-gabsi.com
+Caves Pétrissans; €€; Traditional Cuisine; 48.8813748, 2.2958131; 30 bis avenue Niel, Paris, 75017, France; https://www.cavespetrissans.fr/fr,1,13689.html
+Biscotte; €€; Modern Cuisine; 48.8361105, 2.2912586; 22 rue Desnouettes, Paris, 75015, France; https://www.restaurant-biscotte.com/
+VIVE, Maison Mer; €€€; Seafood; 48.8793847, 2.2917365; 62 avenue des Ternes, Paris, 75017, France; https://www.vive-restaurant.com
+L'Accolade; €€; Modern Cuisine; 48.8372527, 2.2893421; 208 rue de la Croix-Nivert, Paris, 75015, France; https://www.laccoladeparis.com/
+Dessirier; €€€€; Seafood; 48.8848536, 2.2964729; 9 place du Maréchal-Juin, Paris, 75017, France; https://www.restaurantdessirier.com/
+Petrus; €€€; Traditional Cuisine; 48.8852084, 2.2965354; 12 place du Maréchal-Juin, Paris, 75017, France; https://restaurant-petrus.fr/fr
+Phébé; €€; Traditional Cuisine; 48.885656, 2.296779; 190 rue de Courcelles, Paris, 75017, France; https://restaurantphebe.fr/fr
+Petit Gris; €€; Modern Cuisine; 48.8842899, 2.2944799; 67 rue Rennequin, Paris, 75017, France; NONE
+Nomicos; €€€€; Modern Cuisine; 48.870237, 2.2830772; 16 avenue Hubert-Germain, Paris, 75116, France; https://www.nomicos.fr
+Ken Yamamoto; €€€; Modern Cuisine; 48.8689931, 2.2819895; 144 rue de la Pompe, Paris, 75116, France; https://www.kenyamamoto.fr
+Osmossi - Maison Mavrommatis; €€; editerranean Cuisine; 48.8598449, 2.2790858; 70 avenue Paul-Doumer, Paris, 75016, France; https://www.mavrommatis.com/
+Cavalieri; €€€; editerranean Cuisine; 48.8595478, 2.2786507; 71 avenue Paul-Doumer, Paris, 75116, France; http://www.cavalieri.paris.fr
+La Causerie; €€; Modern Cuisine; 48.8589583, 2.2782992; 31 rue Vital, Paris, 75016, France; https://lacauserie.fr/
+L'Archeste; €€€€; Modern Cuisine; 48.8617957, 2.2781329; 79 rue de la Tour, Paris, 75016, France; https://www.archeste.fr/
+Le Pergolèse; €€€€; Traditional Cuisine; 48.8743141, 2.2826153; 40 rue Pergolèse, Paris, 75116, France; https://www.lepergolese.com/
+Beurre Noisette; €€; Farm to table; 48.8356571, 2.2848703; 68 rue Vasco-de-Gama, Paris, 75015, France; https://www.restaurantbeurrenoisette.com/
+Bellefeuille - Saint James Paris; €€€€; Creative; 48.8705158, 2.2798626003340043; 5 place du Chancelier-Adenauer, Paris, 75116, France; https://www.saint-james-paris.com/
+L'Os à Moelle; €€; Traditional Cuisine; 48.838081, 2.2816498; 3 rue Vasco-de-Gama, Paris, 75015, France; NONE
+Comice; €€€€; Modern Cuisine; 48.84952, 2.2761024; 31 avenue de Versailles, Paris, 75016, France; http://www.comice.paris
+Brach; €€€; editerranean Cuisine; 48.86156892498892, 2.2744183587838323; 1-7 rue Jean Richepin, Paris, 75016, France; https://brachparis.com/
+Disciples; €€€; Traditional Cuisine; 48.8371153, 2.2620669; 136 boulevard Murat, Paris, 75016, France; https://disciples.paris
+La Ferme du Pré; €€€; Traditional Cuisine; N/A, N/A; Route de Suresnes - Bois de Boulogne, Paris, 75016, France; https://www.leprecatelan.com/bistrot-la-ferme-du-pre
+Le Pré Catelan; €€€€; eative, Contemporary; N/A, N/A; Route de Suresnes - bois de Boulogne, Paris, 75016, France; https://www.leprecatelan.com/
+La Grande Cascade; €€€€; Classic Cuisine; N/A, N/A; Allée de Longchamp, Bois de Boulogne, Paris, 75016, France; https://www.restaurantsparisiens.com/la-grande-cascade/
