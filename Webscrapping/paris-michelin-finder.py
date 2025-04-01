@@ -3,9 +3,11 @@ data = []
 
 def main():
     print("gathering data...")
-    with open("Webscrapping\Restaurant_Info.txt", 'r', encoding='utf-8') as file:
+    with open("Restaurant_Info.txt", 'r', encoding='utf-8') as file:
         for line in file: 
-            data.append(line.split(';'))
+            info = line.split(';')
+            info[-1] = info[-1].strip()
+            data.append(info)
     file.close()
 
     print("Enter lattitude and longitude:")
@@ -16,18 +18,21 @@ def main():
     print("Enter max distance (km):")
     distance = float(input())
 
-    locate(center, distance)
+    print("Enter max price(1-4):")
+    price = int(input())
+
+    locate(center, distance, price)
     
-def locate(center, distance = 1.5):
+def locate(center, distance, price):
     count = 0
-    for place in data[:10]:
+    for place in data:
         temp = place[3].split(',')
         if temp[0] == " N/A": continue
         coords = [float(i) for i in temp]
-        if calc_distance(center, coords) < distance:
+        if len(place[1].strip()) <= price and calc_distance(center, coords) < distance:
             print(place)
             count+=1
-    if count == 0: print("None within radius")
+    if count == 0: print("None within specified parameters")
 
 def calc_distance(c1, c2):
     d_lat = c1[0] - c2[0]

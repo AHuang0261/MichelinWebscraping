@@ -94,11 +94,17 @@ def get_hours(soup):
         
         ret += f"{DAY[i]: }"
 
-links = []
-file =  open("Webscrapping\Restaurant_Links.txt", "r")
-for line in file:
-    links.append(line)
-file.close()
+links = []    
+if   input("Use links from file? (y/n): ").lower().strip() == "y":
+    file =  open("Webscrapping\Restaurant_Links.txt", "r")
+    for line in file:
+        links.append(line)
+    file.close()
+else: 
+    links = gather_links()
+
+
+
 i = 1
 with open("Webscrapping\Restaurant_Info.txt", "w", encoding='utf-8' ) as target:
     for link in links:

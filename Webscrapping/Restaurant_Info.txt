@@ -271,7 +271,7 @@ Benjamin Schmitt Restaurant; €€€; sine, Modern Cuisine; 48.8798232, 2.3349
 BRU; €€; dern Cuisine, Creole; 48.8794062, 2.33375; 28 rue Jean-Baptiste-Pigalle, Paris, 75009, France; http://www.bruparis.com
 Marso & Co; €€; editerranean Cuisine; 48.8317133, 2.3463715; 16 rue Vulpian, Paris, 75013, France; https://www.tomygousset.com/marso-and-co/
 Minore; €€€; Modern Cuisine; 48.8819586, 2.3459074; 4 avenue Trudaine, Paris, 75009, France; NONE
-Lazare; €€; Traditional Cuisine; N/A, N/A; Parvis de la gare Saint-Lazare, rue Intérieure, Paris, 75008, France; https://lazare-paris.fr/
+Lazare; €€; Traditional Cuisine; 48.87614167133871, 2.3255031682686895; Parvis de la gare Saint-Lazare, rue Intérieure, Paris, 75008, France; https://lazare-paris.fr/
 Lao Siam; €€; Asian; 48.8731549, 2.3809371; 49 rue de Belleville, Paris, 75019, France; NONE
 Frenchie Pigalle; €€€; Modern Cuisine; 48.8808688, 2.3375564; 29 rue Victor-Massé, Paris, 75009, France; http://www.frenchie-pigalle.com
 Bloom Garden; €€€; rn Cuisine, Creative; N/A, N/A; Bloom House, 23 rue du Château-Landon, Paris, 75010, France; https://bloomhouse-hotel.com/restaurant/
@@ -370,7 +370,7 @@ L'Orangerie; €€€€; Modern Cuisine; 48.868784, 2.3006774; Four Seasons Ge
 Le Cinq; €€€€; Modern Cuisine; 48.868784, 2.3006774; Four Seasons Hotel George V, 31 avenue George-V, Paris, 75008, France; https://www.fourseasons.com
 Le George; €€€€; Italian; 48.868784, 2.3006774; Four Seasons George V, 31 avenue George-V, Paris, 75008, France; https://www.fourseasons.com/fr/paris/dining/restaurants/le_george/
 Akira Back Paris; €€€€; Japanese, Fusion; N/A, N/A; Prince de Galles, 33 avenue George-V, Paris, 75008, France; https://www.akirabackparis.com/fr/
-19.20 by Norbert Tarayre; €€; Traditional Cuisine; N/A, N/A; Prince de Galles, 33 avenue George-V, Paris, 75008, France; https://www.19-20paris.fr/
+19.20 by Norbert Tarayre; €€; Traditional Cuisine; 48.86916414300589, 2.300614981759181; Prince de Galles, 33 avenue George-V, Paris, 75008, France; https://www.19-20paris.fr/
 Le 39V; €€€; Modern Cuisine; 48.8698805, 2.3007386; 39 avenue George-V, Paris, 75008, France; https://www.le39v.com/
 L'Esquisse; €€; Modern Cuisine; 48.8912596, 2.3384822; 151 bis rue Marcadet, Paris, 75018, France; http://www.esquisse-paris18.fr
 Pho Tai; €; Vietnamese; 48.8221264, 2.3613884; 13 rue Philibert-Lucot, Paris, 75013, France; NONE
